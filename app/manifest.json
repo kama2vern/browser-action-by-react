@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Extension name",
+  "version": "0.0.1",
+  "description": "A boilerplate",
+  "browser_action": {
+    "default_icon": {
+      "16": "images/icon16.png",
+      "24": "images/icon24.png",
+      "32": "images/icon32.png"
+    },
+    "default_title": "Title",
+    "default_popup": "index.html"
+  }
+}
